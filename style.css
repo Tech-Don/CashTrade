@@ -1,0 +1,38 @@
+h4 {background-color:darkblue;
+color:red;
+}
+h1 {background-color:darkblue ;
+color:white;
+}
+ul {
+    margin:fill;
+    background-color:lightgreen ;
+    color:white;
+}
+p {
+    margin-right:fill;
+}
+div {
+    margin-right:fill;
+    
+}
+body {
+    margin:fill;
+    background-color: darkblue;
+}
+span {
+    margin:fill;
+    background-color:lightgreen;
+}
+hr {
+    margin-bottom:10mm;
+}
+h1 {
+    background-color:lightgreen;
+    color:red;
+}
+h2 {
+    margin-right:fill;
+    color:red;
+    background-color:lightgreen;
+}
